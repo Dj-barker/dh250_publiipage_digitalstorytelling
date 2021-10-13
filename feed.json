@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Daryl&#x27;s dh250 Project",
+    "description": "",
+    "home_page_url": "https://dj-barker.github.io/dh250_publiipage_digitalstorytelling",
+    "feed_url": "https://dj-barker.github.io/dh250_publiipage_digitalstorytelling/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Daryl Barker"
+    },
+    "items": [
+    ]
+}
