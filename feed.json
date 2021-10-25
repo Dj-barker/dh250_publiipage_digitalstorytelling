@@ -10,6 +10,54 @@
     },
     "items": [
         {
+            "id": "https://dj-barker.github.io/dh250_publiipage_digitalstorytelling/recorded-instruction-session.html",
+            "url": "https://dj-barker.github.io/dh250_publiipage_digitalstorytelling/recorded-instruction-session.html",
+            "title": "Recorded Instruction Session",
+            "author": {
+                "name": "Daryl Barker"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-25T12:05:23-07:00",
+            "date_modified": "2021-10-25T12:05:23-07:00"
+        },
+        {
+            "id": "https://dj-barker.github.io/dh250_publiipage_digitalstorytelling/engagement.html",
+            "url": "https://dj-barker.github.io/dh250_publiipage_digitalstorytelling/engagement.html",
+            "title": "Engagement ",
+            "author": {
+                "name": "Daryl Barker"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-25T12:02:51-07:00",
+            "date_modified": "2021-10-25T12:02:51-07:00"
+        },
+        {
+            "id": "https://dj-barker.github.io/dh250_publiipage_digitalstorytelling/audience.html",
+            "url": "https://dj-barker.github.io/dh250_publiipage_digitalstorytelling/audience.html",
+            "title": "Audience",
+            "author": {
+                "name": "Daryl Barker"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-25T12:02:35-07:00",
+            "date_modified": "2021-10-25T12:02:35-07:00"
+        },
+        {
+            "id": "https://dj-barker.github.io/dh250_publiipage_digitalstorytelling/planning.html",
+            "url": "https://dj-barker.github.io/dh250_publiipage_digitalstorytelling/planning.html",
+            "title": "Planning",
+            "author": {
+                "name": "Daryl Barker"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-25T12:02:29-07:00",
+            "date_modified": "2021-10-25T12:02:29-07:00"
+        },
+        {
             "id": "https://dj-barker.github.io/dh250_publiipage_digitalstorytelling/who-i-am-and-what-this-project-is-about.html",
             "url": "https://dj-barker.github.io/dh250_publiipage_digitalstorytelling/who-i-am-and-what-this-project-is-about.html",
             "title": "Who I am and what this project is about...",
