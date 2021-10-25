@@ -3,10 +3,30 @@
     <title>Daryl&#x27;s dh250 Project</title>
     <link href="https://dj-barker.github.io/dh250_publiipage_digitalstorytelling/feed.xml" rel="self" />
     <link href="https://dj-barker.github.io/dh250_publiipage_digitalstorytelling" />
-    <updated>1969-12-31T16:00:00-08:00</updated>
+    <updated>2021-10-25T11:49:30-07:00</updated>
     <author>
         <name>Daryl Barker</name>
     </author>
     <id>https://dj-barker.github.io/dh250_publiipage_digitalstorytelling</id>
 
+    <entry>
+        <title>Who I am and what this project is about...</title>
+        <author>
+            <name>Daryl Barker</name>
+        </author>
+        <link href="https://dj-barker.github.io/dh250_publiipage_digitalstorytelling/who-i-am-and-what-this-project-is-about.html"/>
+        <id>https://dj-barker.github.io/dh250_publiipage_digitalstorytelling/who-i-am-and-what-this-project-is-about.html</id>
+
+        <updated>2021-10-25T11:49:30-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Hey Y'all my name is Daryl Barker and I am a current graduate student in library and information studies at UCLA. This project will explore how I go about developing concepts for, creating learning experiences in, and 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hey Y'all my name is Daryl Barker and I am a current graduate student in library and information studies at UCLA. This project will explore how I go about developing concepts for, creating learning experiences in, and </p>
+            ]]>
+        </content>
+    </entry>
 </feed>

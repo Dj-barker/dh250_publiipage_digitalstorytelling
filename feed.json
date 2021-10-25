@@ -9,5 +9,19 @@
         "name": "Daryl Barker"
     },
     "items": [
+        {
+            "id": "https://dj-barker.github.io/dh250_publiipage_digitalstorytelling/who-i-am-and-what-this-project-is-about.html",
+            "url": "https://dj-barker.github.io/dh250_publiipage_digitalstorytelling/who-i-am-and-what-this-project-is-about.html",
+            "title": "Who I am and what this project is about...",
+            "summary": "Hey Y'all my name is Daryl Barker and I am a current graduate student in library and information studies at UCLA. This project will explore how I go about developing concepts for, creating learning experiences in, and ",
+            "content_html": "<p>Hey Y'all my name is Daryl Barker and I am a current graduate student in library and information studies at UCLA. This project will explore how I go about developing concepts for, creating learning experiences in, and </p>",
+            "author": {
+                "name": "Daryl Barker"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-25T11:49:30-07:00",
+            "date_modified": "2021-10-25T11:49:30-07:00"
+        }
     ]
 }
